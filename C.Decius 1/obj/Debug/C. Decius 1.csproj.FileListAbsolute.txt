@@ -1,0 +1,10 @@
+C:\Users\clifdecius\source\repos\C.Decius 1\C.Decius 1\bin\Debug\C.Decius 1.exe.config
+C:\Users\clifdecius\source\repos\C.Decius 1\C.Decius 1\bin\Debug\C.Decius 1.exe
+C:\Users\clifdecius\source\repos\C.Decius 1\C.Decius 1\bin\Debug\C.Decius 1.pdb
+C:\Users\clifdecius\source\repos\C.Decius 1\C.Decius 1\obj\Debug\C.Decius_1.Form1.resources
+C:\Users\clifdecius\source\repos\C.Decius 1\C.Decius 1\obj\Debug\C.Decius_1.Properties.Resources.resources
+C:\Users\clifdecius\source\repos\C.Decius 1\C.Decius 1\obj\Debug\C. Decius 1.csproj.GenerateResource.cache
+C:\Users\clifdecius\source\repos\C.Decius 1\C.Decius 1\obj\Debug\C. Decius 1.csproj.CoreCompileInputs.cache
+C:\Users\clifdecius\source\repos\C.Decius 1\C.Decius 1\obj\Debug\C.Decius 1.exe
+C:\Users\clifdecius\source\repos\C.Decius 1\C.Decius 1\obj\Debug\C.Decius 1.pdb
+C:\Users\clifdecius\source\repos\C.Decius 1\C.Decius 1\obj\Debug\C. Decius 1.csproj.AssemblyReference.cache
